@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<machines>
+  <machine name="Femco Lathe" port="COM1" baudRate="19200" parity="None" dataBits="8" stopBits="1" handshake="None" />
+</machines> 
